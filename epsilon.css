@@ -5,14 +5,13 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hotpink; /* Hot pink background color */
+    background-color: hotpink; 
 }
 
 .container {
-    max-width: 600px; /* Adjust as needed */
+    max-width: 600px;
     padding: 20px;
     text-align: center;
-    /* Remove background-color and border-radius */
 }
 
 h1 {
